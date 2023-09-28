@@ -8,4 +8,5 @@ It seems that due to the way Blender handles things, it could not be added direc
 
 Minor annoyance that should not cause too many issues, since Panels can now be re-ordered
 
-![image](https://github.com/Hunanbean-Collective/BlenderDimensionsPanel/assets/71809825/9d6b0416-d5f7-4a45-ab6a-db97b31df158)
+![image](https://github.com/Hunanbean-Collective/BlenderDimensionsPanel/assets/71809825/93bd3057-a73a-439f-b934-e4be1cc0b3a3)
+
